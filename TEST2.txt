@@ -1,0 +1,335 @@
+0
+Waiting clients: (id: 1,arrival: 3,service: 4); (id: 10,arrival: 4,service: 4); (id: 42,arrival: 4,service: 6); (id: 9,arrival: 7,service: 7); (id: 4,arrival: 8,service: 7); (id: 7,arrival: 8,service: 1); (id: 35,arrival: 8,service: 3); (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+Queue 3 size: 0 wait 0 : empty
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 0 wait 0 : empty
+
+1
+Waiting clients: (id: 1,arrival: 3,service: 4); (id: 10,arrival: 4,service: 4); (id: 42,arrival: 4,service: 6); (id: 9,arrival: 7,service: 7); (id: 4,arrival: 8,service: 7); (id: 7,arrival: 8,service: 1); (id: 35,arrival: 8,service: 3); (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+Queue 3 size: 0 wait 0 : empty
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 0 wait 0 : empty
+
+2
+Waiting clients: (id: 1,arrival: 3,service: 4); (id: 10,arrival: 4,service: 4); (id: 42,arrival: 4,service: 6); (id: 9,arrival: 7,service: 7); (id: 4,arrival: 8,service: 7); (id: 7,arrival: 8,service: 1); (id: 35,arrival: 8,service: 3); (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+Queue 3 size: 0 wait 0 : empty
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 0 wait 0 : empty
+
+3
+Waiting clients: (id: 10,arrival: 4,service: 4); (id: 42,arrival: 4,service: 6); (id: 9,arrival: 7,service: 7); (id: 4,arrival: 8,service: 7); (id: 7,arrival: 8,service: 1); (id: 35,arrival: 8,service: 3); (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 1 wait 4 : (id: 1,arrival: 3,service: 4); 
+Queue 2 size: 0 wait 0 : empty
+Queue 3 size: 0 wait 0 : empty
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 0 wait 0 : empty
+
+4
+Waiting clients: (id: 9,arrival: 7,service: 7); (id: 4,arrival: 8,service: 7); (id: 7,arrival: 8,service: 1); (id: 35,arrival: 8,service: 3); (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 1 wait 3 : (id: 1,arrival: 3,service: 3); 
+Queue 2 size: 1 wait 4 : (id: 10,arrival: 4,service: 4); 
+Queue 3 size: 1 wait 6 : (id: 42,arrival: 4,service: 6); 
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 0 wait 0 : empty
+
+5
+Waiting clients: (id: 9,arrival: 7,service: 7); (id: 4,arrival: 8,service: 7); (id: 7,arrival: 8,service: 1); (id: 35,arrival: 8,service: 3); (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 1 wait 2 : (id: 1,arrival: 3,service: 2); 
+Queue 2 size: 1 wait 3 : (id: 10,arrival: 4,service: 3); 
+Queue 3 size: 1 wait 5 : (id: 42,arrival: 4,service: 5); 
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 0 wait 0 : empty
+
+6
+Waiting clients: (id: 9,arrival: 7,service: 7); (id: 4,arrival: 8,service: 7); (id: 7,arrival: 8,service: 1); (id: 35,arrival: 8,service: 3); (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 1 wait 1 : (id: 1,arrival: 3,service: 1); 
+Queue 2 size: 1 wait 2 : (id: 10,arrival: 4,service: 2); 
+Queue 3 size: 1 wait 4 : (id: 42,arrival: 4,service: 4); 
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 0 wait 0 : empty
+
+7
+Waiting clients: (id: 4,arrival: 8,service: 7); (id: 7,arrival: 8,service: 1); (id: 35,arrival: 8,service: 3); (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 1 wait 7 : (id: 9,arrival: 7,service: 7); 
+Queue 2 size: 1 wait 1 : (id: 10,arrival: 4,service: 1); 
+Queue 3 size: 1 wait 3 : (id: 42,arrival: 4,service: 3); 
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 0 wait 0 : empty
+
+8
+Waiting clients: (id: 17,arrival: 9,service: 6); (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 1 wait 6 : (id: 9,arrival: 7,service: 6); 
+Queue 2 size: 1 wait 7 : (id: 4,arrival: 8,service: 7); 
+Queue 3 size: 1 wait 2 : (id: 42,arrival: 4,service: 2); 
+Queue 4 size: 1 wait 1 : (id: 7,arrival: 8,service: 1); 
+Queue 5 size: 1 wait 3 : (id: 35,arrival: 8,service: 3); 
+
+9
+Waiting clients: (id: 2,arrival: 10,service: 5); (id: 20,arrival: 10,service: 4); (id: 30,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 1 wait 5 : (id: 9,arrival: 7,service: 5); 
+Queue 2 size: 1 wait 6 : (id: 4,arrival: 8,service: 6); 
+Queue 3 size: 1 wait 1 : (id: 42,arrival: 4,service: 1); 
+Queue 4 size: 1 wait 6 : (id: 17,arrival: 9,service: 6); 
+Queue 5 size: 1 wait 2 : (id: 35,arrival: 8,service: 2); 
+
+10
+Waiting clients: (id: 38,arrival: 11,service: 2); (id: 41,arrival: 11,service: 2); (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 8 : (id: 9,arrival: 7,service: 4); (id: 20,arrival: 10,service: 4); 
+Queue 2 size: 2 wait 9 : (id: 4,arrival: 8,service: 5); (id: 30,arrival: 10,service: 4); 
+Queue 3 size: 2 wait 9 : (id: 2,arrival: 10,service: 5); (id: 40,arrival: 10,service: 4); 
+Queue 4 size: 1 wait 5 : (id: 17,arrival: 9,service: 5); 
+Queue 5 size: 1 wait 1 : (id: 35,arrival: 8,service: 1); 
+
+11
+Waiting clients: (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 7 : (id: 9,arrival: 7,service: 3); (id: 20,arrival: 10,service: 4); 
+Queue 2 size: 2 wait 8 : (id: 4,arrival: 8,service: 4); (id: 30,arrival: 10,service: 4); 
+Queue 3 size: 2 wait 8 : (id: 2,arrival: 10,service: 4); (id: 40,arrival: 10,service: 4); 
+Queue 4 size: 2 wait 6 : (id: 17,arrival: 9,service: 4); (id: 41,arrival: 11,service: 2); 
+Queue 5 size: 1 wait 2 : (id: 38,arrival: 11,service: 2); 
+
+12
+Waiting clients: (id: 48,arrival: 13,service: 7); (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 6 : (id: 9,arrival: 7,service: 2); (id: 20,arrival: 10,service: 4); 
+Queue 2 size: 2 wait 7 : (id: 4,arrival: 8,service: 3); (id: 30,arrival: 10,service: 4); 
+Queue 3 size: 2 wait 7 : (id: 2,arrival: 10,service: 3); (id: 40,arrival: 10,service: 4); 
+Queue 4 size: 2 wait 5 : (id: 17,arrival: 9,service: 3); (id: 41,arrival: 11,service: 2); 
+Queue 5 size: 1 wait 1 : (id: 38,arrival: 11,service: 1); 
+
+13
+Waiting clients: (id: 11,arrival: 14,service: 5); (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 5 : (id: 9,arrival: 7,service: 1); (id: 20,arrival: 10,service: 4); 
+Queue 2 size: 2 wait 6 : (id: 4,arrival: 8,service: 2); (id: 30,arrival: 10,service: 4); 
+Queue 3 size: 2 wait 6 : (id: 2,arrival: 10,service: 2); (id: 40,arrival: 10,service: 4); 
+Queue 4 size: 2 wait 4 : (id: 17,arrival: 9,service: 2); (id: 41,arrival: 11,service: 2); 
+Queue 5 size: 1 wait 7 : (id: 48,arrival: 13,service: 7); 
+
+14
+Waiting clients: (id: 6,arrival: 15,service: 4); (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 9 : (id: 20,arrival: 10,service: 4); (id: 11,arrival: 14,service: 5); 
+Queue 2 size: 2 wait 5 : (id: 4,arrival: 8,service: 1); (id: 30,arrival: 10,service: 4); 
+Queue 3 size: 2 wait 5 : (id: 2,arrival: 10,service: 1); (id: 40,arrival: 10,service: 4); 
+Queue 4 size: 2 wait 3 : (id: 17,arrival: 9,service: 1); (id: 41,arrival: 11,service: 2); 
+Queue 5 size: 1 wait 6 : (id: 48,arrival: 13,service: 6); 
+
+15
+Waiting clients: (id: 31,arrival: 16,service: 3); (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 8 : (id: 20,arrival: 10,service: 3); (id: 11,arrival: 14,service: 5); 
+Queue 2 size: 2 wait 8 : (id: 30,arrival: 10,service: 4); (id: 6,arrival: 15,service: 4); 
+Queue 3 size: 1 wait 4 : (id: 40,arrival: 10,service: 4); 
+Queue 4 size: 1 wait 2 : (id: 41,arrival: 11,service: 2); 
+Queue 5 size: 1 wait 5 : (id: 48,arrival: 13,service: 5); 
+
+16
+Waiting clients: (id: 14,arrival: 17,service: 7); (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 7 : (id: 20,arrival: 10,service: 2); (id: 11,arrival: 14,service: 5); 
+Queue 2 size: 2 wait 7 : (id: 30,arrival: 10,service: 3); (id: 6,arrival: 15,service: 4); 
+Queue 3 size: 2 wait 6 : (id: 40,arrival: 10,service: 3); (id: 31,arrival: 16,service: 3); 
+Queue 4 size: 2 wait 7 : (id: 41,arrival: 11,service: 1); (id: 39,arrival: 16,service: 6); 
+Queue 5 size: 1 wait 4 : (id: 48,arrival: 13,service: 4); 
+
+17
+Waiting clients: (id: 45,arrival: 18,service: 5); (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 6 : (id: 20,arrival: 10,service: 1); (id: 11,arrival: 14,service: 5); 
+Queue 2 size: 2 wait 6 : (id: 30,arrival: 10,service: 2); (id: 6,arrival: 15,service: 4); 
+Queue 3 size: 2 wait 5 : (id: 40,arrival: 10,service: 2); (id: 31,arrival: 16,service: 3); 
+Queue 4 size: 2 wait 13 : (id: 39,arrival: 16,service: 6); (id: 14,arrival: 17,service: 7); 
+Queue 5 size: 1 wait 3 : (id: 48,arrival: 13,service: 3); 
+
+18
+Waiting clients: (id: 18,arrival: 19,service: 4); (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 10 : (id: 11,arrival: 14,service: 5); (id: 45,arrival: 18,service: 5); 
+Queue 2 size: 2 wait 5 : (id: 30,arrival: 10,service: 1); (id: 6,arrival: 15,service: 4); 
+Queue 3 size: 2 wait 4 : (id: 40,arrival: 10,service: 1); (id: 31,arrival: 16,service: 3); 
+Queue 4 size: 2 wait 12 : (id: 39,arrival: 16,service: 5); (id: 14,arrival: 17,service: 7); 
+Queue 5 size: 1 wait 2 : (id: 48,arrival: 13,service: 2); 
+
+19
+Waiting clients: (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 9 : (id: 11,arrival: 14,service: 4); (id: 45,arrival: 18,service: 5); 
+Queue 2 size: 2 wait 8 : (id: 6,arrival: 15,service: 4); (id: 18,arrival: 19,service: 4); 
+Queue 3 size: 1 wait 3 : (id: 31,arrival: 16,service: 3); 
+Queue 4 size: 2 wait 11 : (id: 39,arrival: 16,service: 4); (id: 14,arrival: 17,service: 7); 
+Queue 5 size: 1 wait 1 : (id: 48,arrival: 13,service: 1); 
+
+20
+Waiting clients: (id: 12,arrival: 21,service: 7); (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 8 : (id: 11,arrival: 14,service: 3); (id: 45,arrival: 18,service: 5); 
+Queue 2 size: 2 wait 7 : (id: 6,arrival: 15,service: 3); (id: 18,arrival: 19,service: 4); 
+Queue 3 size: 1 wait 2 : (id: 31,arrival: 16,service: 2); 
+Queue 4 size: 2 wait 10 : (id: 39,arrival: 16,service: 3); (id: 14,arrival: 17,service: 7); 
+Queue 5 size: 0 wait 0 : empty
+
+21
+Waiting clients: (id: 33,arrival: 22,service: 1); (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 7 : (id: 11,arrival: 14,service: 2); (id: 45,arrival: 18,service: 5); 
+Queue 2 size: 2 wait 6 : (id: 6,arrival: 15,service: 2); (id: 18,arrival: 19,service: 4); 
+Queue 3 size: 1 wait 1 : (id: 31,arrival: 16,service: 1); 
+Queue 4 size: 2 wait 9 : (id: 39,arrival: 16,service: 2); (id: 14,arrival: 17,service: 7); 
+Queue 5 size: 1 wait 7 : (id: 12,arrival: 21,service: 7); 
+
+22
+Waiting clients: (id: 15,arrival: 23,service: 2); (id: 16,arrival: 23,service: 3); (id: 22,arrival: 23,service: 6); (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 6 : (id: 11,arrival: 14,service: 1); (id: 45,arrival: 18,service: 5); 
+Queue 2 size: 2 wait 5 : (id: 6,arrival: 15,service: 1); (id: 18,arrival: 19,service: 4); 
+Queue 3 size: 1 wait 1 : (id: 33,arrival: 22,service: 1); 
+Queue 4 size: 2 wait 8 : (id: 39,arrival: 16,service: 1); (id: 14,arrival: 17,service: 7); 
+Queue 5 size: 1 wait 6 : (id: 12,arrival: 21,service: 6); 
+
+23
+Waiting clients: (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 8 : (id: 45,arrival: 18,service: 5); (id: 16,arrival: 23,service: 3); 
+Queue 2 size: 2 wait 10 : (id: 18,arrival: 19,service: 4); (id: 22,arrival: 23,service: 6); 
+Queue 3 size: 1 wait 2 : (id: 15,arrival: 23,service: 2); 
+Queue 4 size: 1 wait 7 : (id: 14,arrival: 17,service: 7); 
+Queue 5 size: 1 wait 5 : (id: 12,arrival: 21,service: 5); 
+
+24
+Waiting clients: (id: 5,arrival: 25,service: 1); (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 7 : (id: 45,arrival: 18,service: 4); (id: 16,arrival: 23,service: 3); 
+Queue 2 size: 2 wait 9 : (id: 18,arrival: 19,service: 3); (id: 22,arrival: 23,service: 6); 
+Queue 3 size: 1 wait 1 : (id: 15,arrival: 23,service: 1); 
+Queue 4 size: 1 wait 6 : (id: 14,arrival: 17,service: 6); 
+Queue 5 size: 1 wait 4 : (id: 12,arrival: 21,service: 4); 
+
+25
+Waiting clients: (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); (id: 44,arrival: 26,service: 1); (id: 50,arrival: 26,service: 7); (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 6 : (id: 45,arrival: 18,service: 3); (id: 16,arrival: 23,service: 3); 
+Queue 2 size: 2 wait 8 : (id: 18,arrival: 19,service: 2); (id: 22,arrival: 23,service: 6); 
+Queue 3 size: 1 wait 1 : (id: 5,arrival: 25,service: 1); 
+Queue 4 size: 1 wait 5 : (id: 14,arrival: 17,service: 5); 
+Queue 5 size: 1 wait 3 : (id: 12,arrival: 21,service: 3); 
+
+26
+Waiting clients: (id: 8,arrival: 27,service: 5); (id: 34,arrival: 27,service: 4); (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 5 : (id: 45,arrival: 18,service: 2); (id: 16,arrival: 23,service: 3); 
+Queue 2 size: 2 wait 7 : (id: 18,arrival: 19,service: 1); (id: 22,arrival: 23,service: 6); 
+Queue 3 size: 2 wait 4 : (id: 19,arrival: 26,service: 1); (id: 23,arrival: 26,service: 3); 
+Queue 4 size: 2 wait 5 : (id: 14,arrival: 17,service: 4); (id: 44,arrival: 26,service: 1); 
+Queue 5 size: 2 wait 9 : (id: 12,arrival: 21,service: 2); (id: 50,arrival: 26,service: 7); 
+
+27
+Waiting clients: (id: 27,arrival: 28,service: 5); (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 4 : (id: 45,arrival: 18,service: 1); (id: 16,arrival: 23,service: 3); 
+Queue 2 size: 2 wait 11 : (id: 22,arrival: 23,service: 6); (id: 8,arrival: 27,service: 5); 
+Queue 3 size: 2 wait 7 : (id: 23,arrival: 26,service: 3); (id: 34,arrival: 27,service: 4); 
+Queue 4 size: 2 wait 4 : (id: 14,arrival: 17,service: 3); (id: 44,arrival: 26,service: 1); 
+Queue 5 size: 2 wait 8 : (id: 12,arrival: 21,service: 1); (id: 50,arrival: 26,service: 7); 
+
+28
+Waiting clients: (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 8 : (id: 16,arrival: 23,service: 3); (id: 27,arrival: 28,service: 5); 
+Queue 2 size: 2 wait 10 : (id: 22,arrival: 23,service: 5); (id: 8,arrival: 27,service: 5); 
+Queue 3 size: 2 wait 6 : (id: 23,arrival: 26,service: 2); (id: 34,arrival: 27,service: 4); 
+Queue 4 size: 2 wait 3 : (id: 14,arrival: 17,service: 2); (id: 44,arrival: 26,service: 1); 
+Queue 5 size: 1 wait 7 : (id: 50,arrival: 26,service: 7); 
+
+29
+Waiting clients: (id: 46,arrival: 30,service: 3); (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 7 : (id: 16,arrival: 23,service: 2); (id: 27,arrival: 28,service: 5); 
+Queue 2 size: 2 wait 9 : (id: 22,arrival: 23,service: 4); (id: 8,arrival: 27,service: 5); 
+Queue 3 size: 2 wait 5 : (id: 23,arrival: 26,service: 1); (id: 34,arrival: 27,service: 4); 
+Queue 4 size: 2 wait 2 : (id: 14,arrival: 17,service: 1); (id: 44,arrival: 26,service: 1); 
+Queue 5 size: 1 wait 6 : (id: 50,arrival: 26,service: 6); 
+
+30
+Waiting clients: (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 6 : (id: 16,arrival: 23,service: 1); (id: 27,arrival: 28,service: 5); 
+Queue 2 size: 2 wait 8 : (id: 22,arrival: 23,service: 3); (id: 8,arrival: 27,service: 5); 
+Queue 3 size: 2 wait 7 : (id: 34,arrival: 27,service: 4); (id: 46,arrival: 30,service: 3); 
+Queue 4 size: 1 wait 1 : (id: 44,arrival: 26,service: 1); 
+Queue 5 size: 1 wait 5 : (id: 50,arrival: 26,service: 5); 
+
+31
+Waiting clients: (id: 3,arrival: 32,service: 2); (id: 25,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); (id: 36,arrival: 32,service: 3); (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 1 wait 5 : (id: 27,arrival: 28,service: 5); 
+Queue 2 size: 2 wait 7 : (id: 22,arrival: 23,service: 2); (id: 8,arrival: 27,service: 5); 
+Queue 3 size: 2 wait 6 : (id: 34,arrival: 27,service: 3); (id: 46,arrival: 30,service: 3); 
+Queue 4 size: 0 wait 0 : empty
+Queue 5 size: 1 wait 4 : (id: 50,arrival: 26,service: 4); 
+
+32
+Waiting clients: (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 5 : (id: 27,arrival: 28,service: 4); (id: 25,arrival: 32,service: 1); 
+Queue 2 size: 2 wait 6 : (id: 22,arrival: 23,service: 1); (id: 8,arrival: 27,service: 5); 
+Queue 3 size: 2 wait 5 : (id: 34,arrival: 27,service: 2); (id: 46,arrival: 30,service: 3); 
+Queue 4 size: 2 wait 5 : (id: 3,arrival: 32,service: 2); (id: 26,arrival: 32,service: 3); 
+Queue 5 size: 2 wait 6 : (id: 50,arrival: 26,service: 3); (id: 36,arrival: 32,service: 3); 
+
+33
+Waiting clients: (id: 21,arrival: 34,service: 4); (id: 32,arrival: 34,service: 3); (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 4 : (id: 27,arrival: 28,service: 3); (id: 25,arrival: 32,service: 1); 
+Queue 2 size: 1 wait 5 : (id: 8,arrival: 27,service: 5); 
+Queue 3 size: 2 wait 4 : (id: 34,arrival: 27,service: 1); (id: 46,arrival: 30,service: 3); 
+Queue 4 size: 2 wait 4 : (id: 3,arrival: 32,service: 1); (id: 26,arrival: 32,service: 3); 
+Queue 5 size: 2 wait 5 : (id: 50,arrival: 26,service: 2); (id: 36,arrival: 32,service: 3); 
+
+34
+Waiting clients: (id: 13,arrival: 35,service: 7); (id: 37,arrival: 35,service: 3); (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 3 : (id: 27,arrival: 28,service: 2); (id: 25,arrival: 32,service: 1); 
+Queue 2 size: 2 wait 8 : (id: 8,arrival: 27,service: 4); (id: 21,arrival: 34,service: 4); 
+Queue 3 size: 2 wait 6 : (id: 46,arrival: 30,service: 3); (id: 32,arrival: 34,service: 3); 
+Queue 4 size: 1 wait 3 : (id: 26,arrival: 32,service: 3); 
+Queue 5 size: 2 wait 4 : (id: 50,arrival: 26,service: 1); (id: 36,arrival: 32,service: 3); 
+
+35
+Waiting clients: (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 2 : (id: 27,arrival: 28,service: 1); (id: 25,arrival: 32,service: 1); 
+Queue 2 size: 2 wait 7 : (id: 8,arrival: 27,service: 3); (id: 21,arrival: 34,service: 4); 
+Queue 3 size: 2 wait 5 : (id: 46,arrival: 30,service: 2); (id: 32,arrival: 34,service: 3); 
+Queue 4 size: 2 wait 9 : (id: 26,arrival: 32,service: 2); (id: 13,arrival: 35,service: 7); 
+Queue 5 size: 2 wait 6 : (id: 36,arrival: 32,service: 3); (id: 37,arrival: 35,service: 3); 
+
+36
+Waiting clients: (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 2 : (id: 25,arrival: 32,service: 1); (id: 47,arrival: 36,service: 1); 
+Queue 2 size: 2 wait 6 : (id: 8,arrival: 27,service: 2); (id: 21,arrival: 34,service: 4); 
+Queue 3 size: 2 wait 4 : (id: 46,arrival: 30,service: 1); (id: 32,arrival: 34,service: 3); 
+Queue 4 size: 2 wait 8 : (id: 26,arrival: 32,service: 1); (id: 13,arrival: 35,service: 7); 
+Queue 5 size: 2 wait 5 : (id: 36,arrival: 32,service: 2); (id: 37,arrival: 35,service: 3); 
+
+37
+Waiting clients: (id: 43,arrival: 38,service: 4); (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 6 : (id: 47,arrival: 36,service: 1); (id: 49,arrival: 37,service: 5); 
+Queue 2 size: 2 wait 5 : (id: 8,arrival: 27,service: 1); (id: 21,arrival: 34,service: 4); 
+Queue 3 size: 1 wait 3 : (id: 32,arrival: 34,service: 3); 
+Queue 4 size: 1 wait 7 : (id: 13,arrival: 35,service: 7); 
+Queue 5 size: 2 wait 4 : (id: 36,arrival: 32,service: 1); (id: 37,arrival: 35,service: 3); 
+
+38
+Waiting clients: (id: 24,arrival: 39,service: 6); (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 9 : (id: 49,arrival: 37,service: 5); (id: 43,arrival: 38,service: 4); 
+Queue 2 size: 1 wait 4 : (id: 21,arrival: 34,service: 4); 
+Queue 3 size: 1 wait 2 : (id: 32,arrival: 34,service: 2); 
+Queue 4 size: 1 wait 6 : (id: 13,arrival: 35,service: 6); 
+Queue 5 size: 1 wait 3 : (id: 37,arrival: 35,service: 3); 
+
+39
+Waiting clients: (id: 28,arrival: 40,service: 7); 
+Queue 1 size: 2 wait 8 : (id: 49,arrival: 37,service: 4); (id: 43,arrival: 38,service: 4); 
+Queue 2 size: 2 wait 9 : (id: 21,arrival: 34,service: 3); (id: 24,arrival: 39,service: 6); 
+Queue 3 size: 2 wait 4 : (id: 32,arrival: 34,service: 1); (id: 29,arrival: 39,service: 3); 
+Queue 4 size: 1 wait 5 : (id: 13,arrival: 35,service: 5); 
+Queue 5 size: 1 wait 2 : (id: 37,arrival: 35,service: 2); 
+
+40
+Waiting clients: 
+Queue 1 size: 2 wait 7 : (id: 49,arrival: 37,service: 3); (id: 43,arrival: 38,service: 4); 
+Queue 2 size: 2 wait 8 : (id: 21,arrival: 34,service: 2); (id: 24,arrival: 39,service: 6); 
+Queue 3 size: 2 wait 10 : (id: 29,arrival: 39,service: 3); (id: 28,arrival: 40,service: 7); 
+Queue 4 size: 1 wait 4 : (id: 13,arrival: 35,service: 4); 
+Queue 5 size: 1 wait 1 : (id: 37,arrival: 35,service: 1); 
+
+Simulation ended
+
+Peak hour: 10
+Avg wait: 5.66
+Avg service: 3.86
+Served,their serv time: 42 162
+

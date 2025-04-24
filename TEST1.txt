@@ -1,0 +1,147 @@
+0
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+1
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+2
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+3
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+4
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+5
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+6
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+7
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+8
+Waiting clients: (id: 2,arrival: 9,service: 2); (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+9
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 1 wait 2 : (id: 2,arrival: 9,service: 2); 
+Queue 2 size: 0 wait 0 : empty
+
+10
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 1 wait 1 : (id: 2,arrival: 9,service: 1); 
+Queue 2 size: 0 wait 0 : empty
+
+11
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+12
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+13
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+14
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+15
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+16
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+17
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+18
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+19
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+20
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+21
+Waiting clients: (id: 1,arrival: 22,service: 3); (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+22
+Waiting clients: (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 1 wait 3 : (id: 1,arrival: 22,service: 3); 
+Queue 2 size: 0 wait 0 : empty
+
+23
+Waiting clients: (id: 3,arrival: 24,service: 2); (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 1 wait 2 : (id: 1,arrival: 22,service: 2); 
+Queue 2 size: 0 wait 0 : empty
+
+24
+Waiting clients: (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 1 wait 1 : (id: 1,arrival: 22,service: 1); 
+Queue 2 size: 1 wait 2 : (id: 3,arrival: 24,service: 2); 
+
+25
+Waiting clients: (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 1 wait 1 : (id: 3,arrival: 24,service: 1); 
+
+26
+Waiting clients: (id: 4,arrival: 27,service: 3); 
+Queue 1 size: 0 wait 0 : empty
+Queue 2 size: 0 wait 0 : empty
+
+27
+Waiting clients: 
+Queue 1 size: 1 wait 3 : (id: 4,arrival: 27,service: 3); 
+Queue 2 size: 0 wait 0 : empty
+
+Simulation ended
+
+Peak hour: 2
+Avg wait: 2.0
+Avg service: 2.33
+Served,their serv time: 3 7
+
