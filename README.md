@@ -1,5 +1,6 @@
 # Java-Queues-Management-App-Using-Threads-And-Synchronization
-Implementation of a queues management application which assigns clients to queues such that the waiting time is minimized
+Implementation of a queues management application which assigns clients to queues such that the waiting time is minimized.
+
 The queues management application should simulate (by defining a simulation time 𝑡𝑠𝑖𝑚𝑢𝑙𝑎𝑡𝑖𝑜𝑛) a
 series of N clients arriving for service, entering Q queues, waiting, being served and finally leaving
 the queues. All clients are generated when the simulation is started, and are characterized by three
